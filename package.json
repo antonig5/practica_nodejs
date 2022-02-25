@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "practica-nodejs",
+  "version": "1.0.0",
+  "description": "practica breve de nodejs",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "Gat0_o",
+  "license": "ISC"
+}
